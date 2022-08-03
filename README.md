@@ -1,2 +1,2 @@
-# Google-Colab-ML
+# Google-Colab
 Machine Learning Notebook
